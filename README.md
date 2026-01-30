@@ -1,5 +1,5 @@
-# Projects
-This repository provides an overview of the projects I have done during both high school and college.
+# HS Projects
+This repository provides an overview of the projects I have done during both high school and early college years.
 
 
 ### 1. Cybersecurity Research Lab
